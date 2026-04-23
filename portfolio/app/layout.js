@@ -5,6 +5,7 @@ export const metadata = {
   title: "Parth Godhani | AI & Full Stack Developer",
   description:
     "Portfolio of Parth Godhani — AI & Full Stack Developer building modern websites, apps, and landing pages.",
+  icons: { icon: "/favicon.ico" },
 };
 
 export default function RootLayout({ children }) {
