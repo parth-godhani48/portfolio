@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const socials = [
   { label: "Email",    value: "godhaniparth055@example.com",  href: "mailto:parth@example.com", icon: "✉️" },
   { label: "GitHub",   value: "https://github.com/parth-godhani48",     href: "https://github.com",       icon: "🐙" },
-  { label: "LinkedIn", value: "https://www.linkedin.com/in/parth-godhani-355187394/", href: "https://linkedin.com",     src : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4////gOLB44D6nTcsGIo33QHi/zTGd0B2YTiAPpYjHIHNAf/piQk6wGPW8f/rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts/m/SfxBMs5RupswBaACr+P47b/5zlG/5DyzZ/r/+8hNF7vuvP//nn3r0X6JhJ+0ccPrR+/+H7735jw9cf/n5v0D1Nuo5gBxQve06zR0AjoL7b7/+//zjN4bc+ScfaOeA33///k9Yfg4mDw7u/Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII=" },
+  { label: "LinkedIn", value: "https://www.linkedin.com/in/parth-godhani-355187394/", href: "https://linkedin.com",     icon: "💼" },
 ];
 
 export default function Contact() {
