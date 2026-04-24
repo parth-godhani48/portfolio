@@ -14,7 +14,7 @@ const techBadges = ["Python", "FastAPI", "PostgreSQL", "MongoDB", "OpenAI API", 
 
 const STATS = [
   { target: 10, suffix: "+", label: "Projects" },
-  { target: 3,  suffix: "+", label: "Years" },
+  { target: 3,  suffix: "+", label: "Month" },
   { target: 9,  suffix: "",  label: "Technologies" },
 ];
 
@@ -109,11 +109,11 @@ export default function About() {
             viewport={{ once: true }} transition={{ duration: 0.6 }}>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
               I&apos;m <span className="text-gray-100 font-semibold">Parth Godhani</span>, a Nanoscience student
-              with a deep passion for technology. I self-taught myself full-stack development and AI integration,
+              with a deep passion for technology. I self-taught myself Python development and AI integration,
               building real-world projects that blend science and software.
             </p>
             <p className="text-gray-400 leading-relaxed mb-8">
-              I specialize in building modern web applications using React, Next.js, and Python FastAPI backends
+              I specialize in building modern web applications using Python FastAPI backends
               with AI integrations. I love turning complex ideas into clean, intuitive digital experiences.
             </p>
 
